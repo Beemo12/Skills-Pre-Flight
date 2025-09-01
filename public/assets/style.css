@@ -4,7 +4,7 @@ html, body {
     width: 100%;
     height: 100%;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Ubuntu", sans-serif;
-    background: linear-gradient(135deg, #ff0000, #ebd0d0);
+    background: linear-gradient(135deg, #1ce19c, #ebd0d0);
     display: flex;
     justify-content: center;
     align-items: center;
